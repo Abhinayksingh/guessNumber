@@ -1,0 +1,50 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    background-color:#800000;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color:aquamarine;
+}
+
+.container{
+    margin: 0 auto;
+    
+}
+.resultParas{
+    margin: 0 30;
+    padding:20px;
+    text-align:center;
+}
+h1{
+    text-align:center;
+    padding:20px;
+}
+p{
+    font-size:bold;
+    padding:10px;
+    text-align:center;
+    font-weight:bold;
+}
+button{
+    padding-top:2px;
+ display:flex;
+ margin : 0 auto;
+ background-color:brown;
+ border-radius:4px;
+ width:100px;
+
+}
+label{
+    margin-left:400px;
+    font-weight:bold;
+
+}
+.guessField {
+    height:25px;
+}
+.guessSubmit{
+    height:30px;
+}
